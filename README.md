@@ -1,5 +1,7 @@
 # KiwiDrop
 
+**Test version — KiwiDrop is currently under active development and testing.**
+
 Secure local file sharing for Windows, Linux, and Android.
 
 **Drag files onto the floating desktop widget to send them to a paired device.** You can also send files from Windows Explorer or share them from an Android app.
