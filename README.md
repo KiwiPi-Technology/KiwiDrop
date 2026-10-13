@@ -24,6 +24,8 @@ Connect both devices to the same local network. Open **Devices**, enable pairing
 
 You can also connect from a PC to an Android phone: enable pairing on the phone and enter the phone's IP on the PC.
 
+**Android ↔ Android:** install version 0.8.1 or later on both phones and enable background reception. Enable pairing on one phone, find it or enter its IP on the other, then enter the four-digit code. Files can be sent in either direction.
+
 ## Updates
 
 KiwiDrop checks GitHub Releases at startup and when you select **Check for updates**. Download and installation require confirmation; paired devices and settings are preserved.
