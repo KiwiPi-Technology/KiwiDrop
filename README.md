@@ -16,6 +16,8 @@ Choose the standard Windows or Linux ZIP for everyday use. **Full** ZIPs include
 - **Linux:** use **Devices → Linux device installation** in KiwiDrop on your desktop. The release includes the Linux package for supported x86_64 and ARM64 systems.
 - **Android:** install the APK. Android 10 or later is required. Enable notifications and background reception to receive files.
 
+For a walkthrough with screenshots, read [How to transfer files between Windows and Linux with KiwiDrop](https://kiwipi.com/blog/local-file-sharing-windows-linux/), including installation, pairing, and offline updates.
+
 ## Pair devices
 
 Connect both devices to the same local network. Open **Devices**, enable pairing on the receiving device, then find it or enter its IP address. Enter its four-digit code on the connecting device.
