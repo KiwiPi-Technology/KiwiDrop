@@ -6,6 +6,8 @@ Secure local file sharing for Windows, Linux, and Android.
 
 [Download the latest version](https://github.com/KiwiPi-Technology/KiwiDrop/releases/latest)
 
+Choose the standard Windows or Linux ZIP for everyday use. **Full** ZIPs include installers for sharing updates offline. The standard edition can download these later from **Settings → Download packages to update other devices**.
+
 ## Install
 
 - **Windows:** extract the entire Windows ZIP. If needed, install Python using the included installer, then run `Install-KiwiDrop.cmd`.
@@ -29,3 +31,4 @@ To update Windows manually, extract the new ZIP and run `Reinstall-KiwiDrop.cmd`
 ## Feedback
 
 [Report an issue](https://github.com/KiwiPi-Technology/KiwiDrop/issues) with your KiwiDrop version, operating system, and steps to reproduce the problem.
+
