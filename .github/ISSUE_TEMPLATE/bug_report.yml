@@ -1,0 +1,24 @@
+name: Bug report
+description: Report a problem with KiwiDrop
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: KiwiDrop version
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Operating system
+      placeholder: Windows 11, Ubuntu 24.04, Android 15
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include steps to reproduce and the expected result. You can attach screenshots.
+    validations:
+      required: true
