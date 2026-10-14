@@ -12,7 +12,7 @@ Choose **Standard** for everyday use. **Full** includes installers for updating 
 
 | Platform | Requirements |
 | --- | --- |
-| Windows | Windows 10 or 11, x64; standard 64-bit Python 3.12 or 3.13. The ZIP includes an official Python installer and offline dependencies. |
+| Windows | Windows 10 (1809 or newer) or Windows 11, x64; standard 64-bit Python 3.12 or 3.13. The ZIP includes an official Python installer and offline dependencies. |
 | Linux | x86_64 or ARM64; Python 3.11–3.13 with pip; glibc 2.34 or newer. The ARM64 graphical app requires glibc 2.39 or newer. |
 | Android | Android 10 or newer. Allow notifications and enable background reception to receive while using other apps. |
 
