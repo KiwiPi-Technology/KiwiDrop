@@ -32,6 +32,10 @@ On the recipient, enable pairing for two minutes. On the other device, find it o
 
 On PC, open **Devices → QR • Phone**. On Android, open **Devices → Add a device → Scan QR code from PC**, scan the code, and confirm the connection. Each invitation works once, expires after five minutes, and verifies the PC certificate. Closing or regenerating the QR code invalidates the previous invitation. Existing pairings are preserved.
 
+<img src="docs/screenshots/pc-qr-pairing.png" alt="KiwiDrop 0.8.3 PC dialog for pairing a phone by QR code" width="460">
+
+*Actual 0.8.3 dialog with an expired example invitation.*
+
 Read the [guide to local file sharing between Windows and Linux](https://kiwipi.com/blog/local-file-sharing-windows-linux/).
 
 ## Desktop features
