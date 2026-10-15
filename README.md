@@ -28,6 +28,10 @@ Use the same local network for pairing and transfers. Internet access is needed 
 
 On the recipient, enable pairing for two minutes. On the other device, find it or enter its local IP, then enter the **four-digit code** shown by the recipient. Pairing is saved for later transfers. For PC-to-Android or Android-to-Android pairing, keep background reception enabled on the phone receiving the request.
 
+### Pair a phone by QR code
+
+On PC, open **Devices → QR • Phone**. On Android, open **Devices → Add a device → Scan QR code from PC**, scan the code, and confirm the connection. Each invitation works once, expires after five minutes, and verifies the PC certificate. Closing or regenerating the QR code invalidates the previous invitation. Existing pairings are preserved.
+
 Read the [guide to local file sharing between Windows and Linux](https://kiwipi.com/blog/local-file-sharing-windows-linux/).
 
 ## Desktop features
@@ -66,7 +70,9 @@ This works with Linux PCs and boards, including devices without a display. KiwiD
 
 ## Android reception
 
-An incoming-file banner appears inside the app on every tab, with the sender, file details, and **Accept / Decline** actions. Notifications remain available outside the app. After download, open the file from its transfer card or notification. Animated progress shows background reception startup and other operations.
+An incoming-file banner shows the sender, file details, and **Accept / Decline** actions. On the Transfers tab, the transfer card replaces the banner. Handled requests disappear immediately; failed actions display an error. Notifications remain available outside the app. After download, open the file from its transfer card or notification. Animated progress shows background reception starting and stopping, as well as other operations.
+
+Transfers to one phone continue independently of unreachable paired devices.
 
 ## Updates
 
